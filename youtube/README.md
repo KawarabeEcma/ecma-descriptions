@@ -26,7 +26,7 @@ https://marshmallow-qa.com/KawarabeEcma
 A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
-🥒 what is Kappa?
+🥒 what is kappa?
 It's a famous "Yokai" in Japan.
 
 --------------------------------------------------------------------------------
