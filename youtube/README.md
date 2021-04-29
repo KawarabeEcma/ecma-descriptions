@@ -1,3 +1,7 @@
+# チャンネルのカスタマイズ（基本情報）
+
+<https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q/about>
+
 ## チャンネル概要欄
 
 ```
@@ -35,6 +39,12 @@ This Pull requests:
 https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
 ```
 
-## 対象ページ
+## リンク
 
-<https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q/about>
+### Twitter
+
+> https://twitter.com/KawarabeEcma
+
+### GitHub
+
+> https://github.com/KawarabeEcma

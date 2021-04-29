@@ -1,3 +1,7 @@
+# マシュマロのアカウント設定
+
+<https://marshmallow-qa.com/kawarabeecma>
+
 ## 表示名
 
 ```
@@ -12,7 +16,3 @@
 
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 ```
-
-## 対象ページ
-
-<https://marshmallow-qa.com/kawarabeecma>
