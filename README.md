@@ -21,3 +21,11 @@ If you have any fix typos or proposal for improvement, please send a pull reques
 
 - For readability reasons, if a line break cannot be used, the text will be written as a quotation. Other content will be written using code blocks.
 - If necessary, write the English text after the Japanese text, separating it with a horizontal line.
+
+## Guidelines
+
+- 支援技術を利用するユーザの理解を妨げないように、装飾目的で記号や絵文字を用いる際は最低限に抑える（アクセシビリティ）
+
+---
+　
+- Keep the use of symbols and pictograms for decorative purposes to a minimum so as not to interfere with the understanding of users of assistive technologies (accessibility).
