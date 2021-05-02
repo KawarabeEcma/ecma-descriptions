@@ -25,6 +25,11 @@ https://marshmallow-qa.com/KawarabeEcma
 ファンネーム：募集中
 その他：#へっぽこフロントエンド道
 
+🥒 お願い
+動画上での内容は可能な限り正確なものにするよう努めていますが、
+特に配信ではその特性上、情報が誤っていたり古くなっている場合があります。
+もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
+
 --------------------------------------------------------------------------------
 
 A working kappa who struggle to disguise himself as a human.
@@ -33,6 +38,10 @@ By chance, He helps a human with his work, then becomes a front-end web develope
 🥒 what is kappa?
 It's a famous "Yokai" in Japan.
 
+🥒 Please note
+While we strive to make the content of my videos and streaming as accurate as possible.
+However, maybe the information is wrong or outdated.
+If you find any wrong, please let me know in the comments or chat!
 --------------------------------------------------------------------------------
 
 This Pull requests:
