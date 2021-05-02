@@ -21,12 +21,12 @@ https://marshmallow-qa.com/KawarabeEcma
 
 🥒 ハッシュタグ
 生放送関連：#かわらいぶ
-イラスト：募集中
-ファンネーム：募集中
+イラスト：#河童絵巻
+ファンネーム：きゅーかむばー
 その他：#へっぽこフロントエンド道
 
 🥒 お願い
-動画上での内容は可能な限り正確なものにするよう努めていますが、
+動画の内容は可能な限り正確なものにするよう努めていますが、
 特に配信ではその特性上、情報が誤っていたり古くなっている場合があります。
 もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
 
@@ -36,7 +36,7 @@ A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
 🥒 what is kappa?
-It's a famous "Yokai" in Japan.
+It's a famous "Yokai" in JP.
 
 🥒 Please note
 While we strive to make the content of my videos and streaming as accurate as possible.
