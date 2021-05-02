@@ -2,13 +2,13 @@
 
 <https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q/about>
 
-## チャンネル概要欄
+## チャンネル概要欄（〜1000文字）
 
 ```
 河童エクマ（Kawarabe Ecma）です🥒
 いっしょに楽しくWeb制作しましょ〜！！
 
---------------------------------------------------------------------------------
+-----------------------------------
 
 人間の姿にがんばって化けている働く河童。
 ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
@@ -30,7 +30,7 @@ https://marshmallow-qa.com/KawarabeEcma
 特に配信ではその特性上、情報が誤っていたり古くなっている場合があります。
 もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
 
---------------------------------------------------------------------------------
+-----------------------------------
 
 A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
@@ -42,7 +42,8 @@ It's a famous "Yokai" in Japan.
 While we strive to make the content of my videos and streaming as accurate as possible.
 However, maybe the information is wrong or outdated.
 If you find any wrong, please let me know in the comments or chat!
---------------------------------------------------------------------------------
+
+-----------------------------------
 
 This Pull requests:
 https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
