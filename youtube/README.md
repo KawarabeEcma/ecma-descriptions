@@ -24,7 +24,7 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 ハッシュタグ
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
-ファンネーム：きゅーかむばー
+ファンネーム（仮）：きゅーかむばー
 その他：#へっぽこフロントエンド道
 
 🥒 お願い
@@ -62,7 +62,7 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 Tags
 Stream：#かわらいぶ
 Fan art：#河童絵巻
-Fan name：きゅーかむばー
+Fan name (tentative): きゅーかむばー
 Other：#へっぽこフロントエンド道
 
 🥒 Please note
