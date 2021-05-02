@@ -28,8 +28,10 @@ https://marshmallow-qa.com/KawarabeEcma
 その他：#へっぽこフロントエンド道
 
 🥒 お願い
-動画の内容は可能な限り正確なものにするよう努めていますが、
-特に配信ではその特性上、情報が誤っていたり古くなっている場合があります。
+性質上、配信の中で出てくる情報の正確性は保障できません。。。
+配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
+正誤についてはお手数ですが自分の目でも確かめてみてください🙇‍♂️
+
 もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
 
 --------------------------------------------------------------------------------
@@ -45,7 +47,7 @@ https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
 Hi! This is Kawarabe Ecma🥒.
 Let's have fun a web development together!
 
---------------------------------------------------------------------------------
+---------------------------------
 
 A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
@@ -66,11 +68,14 @@ Fan name (tentative): きゅーかむばー
 Other：#へっぽこフロントエンド道
 
 🥒 Please note
+Due to the nature of live stream, I cannot guarantee the accuracy of the knowledge provided in my stream...
 While we strive to make the content of my videos and streaming as accurate as possible.
 However, maybe the information is wrong or outdated.
+Please check for accuracy on your own.🙇‍♂️
+
 If you find any wrong, please let me know in the comments or chat!
 
---------------------------------------------------------------------------------
+---------------------------------
 
 If you find a typo...
 https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
