@@ -11,6 +11,7 @@
 ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
 
 --------------------------------------------------------------------------------
+
 河童エクマ（Kawarabe Ecma）です🥒
 いっしょに楽しくWeb制作しましょ〜！
 
@@ -47,6 +48,7 @@ A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
 ---------------------------------
+
 Hi! This is Kawarabe Ecma🥒.
 Let's have fun a web development together!
 
