@@ -37,7 +37,7 @@ https://marshmallow-qa.com/KawarabeEcma
 --------------------------------------------------------------------------------
 
 誤字脱字を見つけたら…
-https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
+https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ```
 
 ### EN
@@ -78,7 +78,7 @@ If you find any wrong, please let me know in the comments or chat!
 ---------------------------------
 
 If you find a typo...
-https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
+https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ```
 
 ## リンク
