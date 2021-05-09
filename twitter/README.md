@@ -4,16 +4,16 @@
 
 ## 名前
 
-> 河童エクマ🥒（かわらべえくま）@5月8日初配信
+> 河童エクマ🥒へっぽこフロントエンドエンジニア
 
 ## 自己紹介
 
-> V Front-end web developer／個人Vtuber🥒☀️ #へっぽこフロントエンド道┃👨‍💻上司(@heppokofrontend) ✍️パパ(@soten_bluesky)┃I'm learning English a little.
+> V Front-end web developer／個人Vtuber🥒☀️ #へっぽこフロントエンド道┃👨‍💻上司(@heppokofrontend) ✍️パパ(@soten_bluesky) 🕺ママ(@soten_bluesky) ┃I'm learning English a little.
 ```
 
 ## 場所
 
->
+>　かわらべ えくまと読みます。
 
 ## ウェブサイト
 
