@@ -19,7 +19,7 @@ ___dummy___
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1
 
 🥒 Twitter
-https://twitter.com/KawarabeEcma​
+https://twitter.com/KawarabeEcma
 配信タグ「 #かわらいぶ 」でツイートしてね！
 
 🥒 お約束
@@ -70,21 +70,21 @@ https://store.line.me/stickershop/product/11740941/ja
 
 🥒使用素材
 DOVE-SYNDROME
-https://dova-s.jp/​
+https://dova-s.jp/
 ICOON MONO
-https://icooon-mono.com/​
+https://icooon-mono.com/
 PIXTA
-https://pixta.jp/​
+https://pixta.jp/
 Twemoji
 https://twemoji.twitter.com/
 いらすとや
-https://www.irasutoya.com/​
+https://www.irasutoya.com/
 くらげ工匠
 http://www.kurage-kosho.info/
 素材Library.com
-https://www.sozai-library.com/​
+https://www.sozai-library.com/
 動画素材サイト「えふすと f-stock」
-https://f-stock.net/​
+https://f-stock.net/
 効果音ラボ
 https://soundeffect-lab.info/
 ```
