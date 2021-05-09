@@ -7,13 +7,13 @@
 ### JP
 
 ```
-河童エクマ（Kawarabe Ecma）です🥒
-いっしょに楽しくWeb制作しましょ〜！
+人間の姿にがんばって化けている働く河童。
+ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
 
 --------------------------------------------------------------------------------
 
-人間の姿にがんばって化けている働く河童。
-ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
+河童エクマ（Kawarabe Ecma）です🥒
+いっしょに楽しくWeb制作しましょ〜！
 
 🥒 Twitter
 https://twitter.com/KawarabeEcma
@@ -37,20 +37,20 @@ https://marshmallow-qa.com/KawarabeEcma
 --------------------------------------------------------------------------------
 
 誤字脱字を見つけたら…
-https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
+https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ```
 
 ### EN
 
 
 ```
-Hi! This is Kawarabe Ecma🥒.
-Let's have fun a web development together!
+A working kappa who struggle to disguise himself as a human.
+By chance, He helps a human with his work, then becomes a front-end web developer.
 
 ---------------------------------
 
-A working kappa who struggle to disguise himself as a human.
-By chance, He helps a human with his work, then becomes a front-end web developer.
+Hi! This is Kawarabe Ecma🥒.
+Let's have fun a web development together!
 
 🥒 what is kappa?
 It's a famous "Yokai" in Japan.
@@ -78,7 +78,7 @@ If you find any wrong, please let me know in the comments or chat!
 ---------------------------------
 
 If you find a typo...
-https://github.com/KawarabeEcma/ecma-descriptions/blob/main/README.md
+https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ```
 
 ## リンク
