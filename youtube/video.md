@@ -43,6 +43,8 @@ DOVE-SYNDROME
 https://dova-s.jp/
 ICOON MONO
 https://icooon-mono.com/
+OtoLogic
+https://otologic.jp/
 PIXTA
 https://pixta.jp/
 Twemoji
@@ -51,10 +53,12 @@ https://twemoji.twitter.com/
 https://www.irasutoya.com/
 くらげ工匠
 http://www.kurage-kosho.info/
+効果音ラボ
+https://soundeffect-lab.info/
 素材Library.com
 https://www.sozai-library.com/
 動画素材サイト「えふすと f-stock」
 https://f-stock.net/
-効果音ラボ
-https://soundeffect-lab.info/
+魔王魂
+https://maou.audio/
 ```
