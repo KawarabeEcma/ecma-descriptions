@@ -41,10 +41,6 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
 
 > https://twitter.com/KawarabeEcma
 
-### GitHub
-
-> https://github.com/KawarabeEcma
-
 ### v-data
 
 > https://v-data.info/v/OXz3370ph7BJl5uP
