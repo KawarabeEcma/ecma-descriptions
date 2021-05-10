@@ -37,6 +37,10 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
 
 ## リンク
 
+### メインチャンネル
+
+> https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
+
 ### Twitter
 
 > https://twitter.com/KawarabeEcma
