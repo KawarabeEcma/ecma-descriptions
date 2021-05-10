@@ -90,3 +90,11 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ### GitHub
 
 > https://github.com/KawarabeEcma
+
+## マシュマロ
+
+> https://marshmallow-qa.com/kawarabeecma
+
+### v-data
+
+> https://v-data.info/v/OXz3370ph7BJl5uP
