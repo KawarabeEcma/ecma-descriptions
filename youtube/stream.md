@@ -82,6 +82,8 @@ Twemoji
 https://twemoji.twitter.com/
 いらすとや
 https://www.irasutoya.com/
+エダマメ豆富
+https://www.youtube.com/c/edamametofu
 くらげ工匠
 http://www.kurage-kosho.info/
 効果音ラボ
