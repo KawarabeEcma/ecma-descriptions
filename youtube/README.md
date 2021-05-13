@@ -48,7 +48,7 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 A working kappa who struggle to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
----------------------------------
+---------------------------
 
 Hi! This is Kawarabe Ecma🥒.
 Let's have fun a web development together!
@@ -66,6 +66,7 @@ https://marshmallow-qa.com/KawarabeEcma
 Stream：#かわらいぶ
 Fan art：#河童絵巻
 Fan name (tentative): きゅーかむばー
+Clip：#おつまみきゅーり
 Other：#へっぽこフロントエンド道
 
 🥒 Please note
@@ -76,7 +77,7 @@ Please check for accuracy on your own.🙇‍♂️
 
 If you find any wrong, please let me know in the comments or chat!
 
----------------------------------
+---------------------------
 
 If you find a typo...
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
