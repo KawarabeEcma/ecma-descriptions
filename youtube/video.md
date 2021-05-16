@@ -39,7 +39,7 @@ https://store.line.me/stickershop/product/11740941/ja
 
 --------------------------------------------------------------------------------
 
-🥒使用素材
+🥒お世話になっている素材屋さん
 DOVE-SYNDROME
 https://dova-s.jp/
 ICOON MONO
