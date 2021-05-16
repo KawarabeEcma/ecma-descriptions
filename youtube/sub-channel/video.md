@@ -31,10 +31,16 @@ Twemoji
 https://twemoji.twitter.com/
 いらすとや
 https://www.irasutoya.com/
+エダマメ豆富
+https://www.youtube.com/c/edamametofu
 くらげ工匠
 http://www.kurage-kosho.info/
+ポケットサウンド
+https://pocket-se.info/
 効果音ラボ
 https://soundeffect-lab.info/
+写真AC
+https://www.photo-ac.com/
 素材Library.com
 https://www.sozai-library.com/
 動画素材サイト「えふすと f-stock」
