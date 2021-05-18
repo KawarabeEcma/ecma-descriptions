@@ -93,10 +93,14 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 
 > https://github.com/KawarabeEcma
 
-## マシュマロ
+### マシュマロ
 
 > https://marshmallow-qa.com/kawarabeecma
 
 ### v-data
 
 > https://v-data.info/v/OXz3370ph7BJl5uP
+
+### VTuber ランキング
+
+> https://virtual-youtuber.userlocal.jp/user/A683BDB558EBB213_a1cc18
