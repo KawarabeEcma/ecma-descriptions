@@ -19,6 +19,6 @@ By chance, He helps a human with his work, then becomes a front-end web develope
 
 > https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 
-## TWitter
+## Twitter
 
 > KawarabeEcma
