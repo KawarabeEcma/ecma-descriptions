@@ -8,11 +8,14 @@
 
 ## 自己紹介
 
-> V Front-end web developer／個人Vtuber🥒☀️ #へっぽこフロントエンド道┃👨‍💻上司(@heppokofrontend) ✍️パパ(@soten_bluesky) 🕺ママ(@soten_bluesky) ┃▶️ 平日朝8時にニュース動画投稿
+```
+V Front-end web developer 🥒☀️
+https://vprof.me/@/kawarabeecma ／配信タグ #かわらいぶ ／ファンアート #河童絵巻 ／技術系 #へっぽこフロントエンド道 ／ママパパ(@soten_bluesky) ／▶️ 平日朝8時にニュース動画投稿
+```
 
 ## 場所
 
->　かわらべ えくまと読みます。
+>　かわらべ えくま と読みます。
 
 ## ウェブサイト
 
