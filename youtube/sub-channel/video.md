@@ -18,7 +18,9 @@ Ecma Ch. 河童エクマ　https://t.co/eH9MQQRoEo?amp=1
 
 --------------------------------------------------------------------------------
 
-🥒お世話になっている素材屋さん
+🥒🥒お世話になっている素材屋さん
+リスト：https://github.com/KawarabeEcma/ecma-licenses
+
 DOVE-SYNDROME
 https://dova-s.jp/
 ICOON MONO

@@ -39,7 +39,9 @@ https://store.line.me/stickershop/product/11740941/ja
 
 --------------------------------------------------------------------------------
 
-🥒お世話になっている素材屋さん
+🥒🥒お世話になっている素材屋さん
+リスト：https://github.com/KawarabeEcma/ecma-licenses
+
 DOVE-SYNDROME
 https://dova-s.jp/
 ICOON MONO
