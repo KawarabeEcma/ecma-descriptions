@@ -1,6 +1,6 @@
 # Steamプロフィール
 
-<https://github.com/heppokofrontend>
+<https://steamcommunity.com/id/kawarabeecma/>
 
 ## プロフィール名
 
@@ -13,8 +13,6 @@
 ## カスタムURL
 
 > kawarabeecma
-
-<https://steamcommunity.com/id/kawarabeecma/>
 
 ## 国
 
