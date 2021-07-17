@@ -8,6 +8,9 @@
 ```
 ___dummy___
 
+#かわらいぶ 
+↓↓↓概要欄をご一読ください↓↓↓
+
 --------------------------------------------------------------------------------
 
 人間の姿にがんばって化けている働く河童。
@@ -23,9 +26,9 @@ https://twitter.com/KawarabeEcma
 配信タグ「 #かわらいぶ 」でツイートしてね！
 
 🥒 お約束
-1. 他の人と喧嘩しない！
-2. 触れづらいテーマには触れない
-3. 話題に出てない他配信者さんのお話はしない
+1. 質問はタイミングを選ばずお気軽に！（答えられる限り答えたい！）
+2. 他の人と喧嘩しない！
+3. 触れづらいテーマには触れない
 
 🥒 お願い
 性質上、配信の中で出てくる情報の正確性は保障できません。。。
@@ -92,10 +95,10 @@ http://www.kurage-kosho.info/
 https://pocket-se.info/
 効果音ラボ
 https://soundeffect-lab.info/
-写真AC
-https://www.photo-ac.com/
 イラストAC
 https://www.illust-ac.com/
+写真AC
+https://www.photo-ac.com/
 素材Library.com
 https://www.sozai-library.com/
 動画素材サイト「えふすと f-stock」
