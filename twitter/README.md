@@ -9,8 +9,8 @@
 ## 自己紹介
 
 ```
-V Front-end web developer 🥒☀️
-https://vprof.me/@/kawarabeecma ／配信タグ #かわらいぶ ／ファンアート #河童絵巻 ／技術系 #へっぽこフロントエンド道 ／ママパパ(@soten_bluesky) ／▶️ 平日朝8時にニュース動画投稿
+Web制作系VTuber！
+フロントエンドが好きな普通の河童。バーチャル東京で働いています！／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママンパパン(@soten_bluesky)／vprof.me/@/kawarabeecma
 ```
 
 ## 場所
