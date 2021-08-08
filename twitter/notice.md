@@ -13,3 +13,14 @@ ___dummy___
 🥒↓↓待機所↓↓🥒
 https://youtu.be/XXXXX #かわらいぶ
 ```
+
+```
+／
+　___category___を公開しました🥒✨
+＼
+
+___dummy___
+
+🚀 ___tool_name___
+https://www.npmjs.com/package/@heppokofrontend/html-code-block-element
+```
