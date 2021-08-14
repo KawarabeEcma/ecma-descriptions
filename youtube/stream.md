@@ -60,7 +60,7 @@ If you find any wrong, please let me know in the comments or chat!
 🥒 ハッシュタグ
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
-ファンネーム（仮）：きゅーかむばー
+ファンネーム（仮）：はすのこ
 切り抜き：#おつまみきゅーり
 その他：#へっぽこフロントエンド道
 
