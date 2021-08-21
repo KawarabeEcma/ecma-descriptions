@@ -178,7 +178,7 @@ Tweet your thoughts on the video with the hashtag #河童エクマ !
 🥒 Please note
 Web-related information gets out of date very quickly. So when you watch my videos, you need to check the upload date.
 
-This video is explanation that be broken down. I apologize for the detailed information and for any errors, so you'll have to see for yourself too.
+This video is explanation that be broken down. I apologize for the detailed information and for any errors, so you'll have to see for yourself too.🙇‍♂️
 
 We have tried to make the information in the video as accurate as possible.
 If you find any errors, I'd appreciate it if you could let me know in the comments!
