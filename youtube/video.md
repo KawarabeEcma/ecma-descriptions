@@ -152,3 +152,85 @@ https://f-stock.net/
 魔王魂
 https://maou.audio/
 ```
+
+### EN
+
+```
+#kawarabeecma #ひとくちきゅーり #WebDev
+↓↓↓README↓↓↓
+
+___dummy___
+
+--------------------------------------------------------------------------------
+
+A working kappa who struggle to disguise himself as a human.
+By chance, He helps a human with his work, then becomes a front-end web developer.
+
+--------------------------------------------------------------------------------
+
+🥒 Please subscribe to our channel and rate us highly!
+https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1
+
+🥒 Twitter
+https://twitter.com/KawarabeEcma
+Tweet your thoughts on the video with the hashtag #河童エクマ !
+
+🥒 Please note
+Web-related information gets out of date very quickly. So when you watch my videos, you need to check the upload date.
+
+This video is explanation that be broken down. I apologize for the detailed information and for any errors, so you'll have to see for yourself too.
+
+We have tried to make the information in the video as accurate as possible.
+If you find any errors, I'd appreciate it if you could let me know in the comments!
+
+--------------------------------------------------------------------------------
+
+🥒 Tags
+Stream：#かわらいぶ
+Fan art：#河童絵巻
+Fan name: はすのこ（hasunoko）
+Clip：#おつまみきゅーり
+Other：#へっぽこフロントエンド道
+
+🥒LINE STAMP
+かっぱのかぱ吉くん。
+https://store.line.me/stickershop/product/1086057/ja
+かっぱのかぱ吉くん2。
+https://store.line.me/stickershop/product/11740941/ja
+
+--------------------------------------------------------------------------------
+
+🥒🥒LISENCE
+https://github.com/KawarabeEcma/ecma-licenses
+
+DOVE-SYNDROME
+https://dova-s.jp/
+ICOON MONO
+https://icooon-mono.com/
+OtoLogic
+https://otologic.jp/
+PIXTA
+https://pixta.jp/
+Twemoji
+https://twemoji.twitter.com/
+いらすとや
+https://www.irasutoya.com/
+エダマメ豆富
+https://www.youtube.com/c/edamametofu
+くらげ工匠
+http://www.kurage-kosho.info/
+ポケットサウンド
+https://pocket-se.info/
+効果音ラボ
+https://soundeffect-lab.info/
+写真AC
+https://www.photo-ac.com/
+イラストAC
+https://www.illust-ac.com/
+素材Library.com
+https://www.sozai-library.com/
+動画素材サイト「えふすと f-stock」
+https://f-stock.net/
+魔王魂
+https://maou.audio/
+```
