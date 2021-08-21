@@ -24,7 +24,7 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 ハッシュタグ
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
-ファンネーム（仮）：はすのこ
+ファンネーム：はすのこ
 切り抜き：#おつまみきゅーり
 その他：#へっぽこフロントエンド道
 
@@ -56,7 +56,7 @@ Let's have fun a web development together!
 🥒 what is kappa?
 It's a famous "Yokai" in Japan.
 
-🥒 Twitter
+🥒 Twittre
 https://twitter.com/KawarabeEcma
 
 🥒 Q&A Form (Marshmallow)
@@ -65,7 +65,7 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 Tags
 Stream：#かわらいぶ
 Fan art：#河童絵巻
-Fan name (tentative): きゅーかむばー
+Fan name: はすのこ（hasunoko）
 Clip：#おつまみきゅーり
 Other：#へっぽこフロントエンド道
 
