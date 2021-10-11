@@ -25,7 +25,7 @@ https://marshmallow-qa.com/KawarabeEcma
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
 ファンネーム：はすのこ
-切り抜き：#おつまみきゅーり
+切り抜き：#ひとくちきゅーり
 その他：#へっぽこフロントエンド道
 
 🥒 お願い
@@ -66,7 +66,7 @@ https://marshmallow-qa.com/KawarabeEcma
 Stream：#かわらいぶ
 Fan art：#河童絵巻
 Fan name: はすのこ（hasunoko）
-Clip：#おつまみきゅーり
+Clip：#ひとくちきゅーり
 Other：#へっぽこフロントエンド道
 
 🥒 Please note

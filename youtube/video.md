@@ -30,7 +30,7 @@ https://twitter.com/KawarabeEcma
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
 ファンネーム：はすのこ
-切り抜き：#おつまみきゅーり
+切り抜き：#ひとくちきゅーり
 その他：#へっぽこフロントエンド道
 
 🥒LINEスタンプ
@@ -107,7 +107,7 @@ Web関連の情報はあっという間に古くなってしまうので、ア�
 生放送関連：#かわらいぶ
 イラスト：#河童絵巻
 ファンネーム：はすのこ
-切り抜き：#おつまみきゅーり
+切り抜き：#ひとくちきゅーり
 その他：#へっぽこフロントエンド道
 
 🥒LINEスタンプ
@@ -189,7 +189,7 @@ If you find any errors, I'd appreciate it if you could let me know in the commen
 Stream：#かわらいぶ
 Fan art：#河童絵巻
 Fan name: はすのこ（hasunoko）
-Clip：#おつまみきゅーり
+Clip：#ひとくちきゅーり
 Other：#へっぽこフロントエンド道
 
 🥒LINE STAMP
