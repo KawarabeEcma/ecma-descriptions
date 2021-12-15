@@ -10,7 +10,7 @@
 
 ```
 Web制作系駆け出しVTuber！
-フロントエンドが好きな普通の河童。バーチャル東京で働いています！／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママンパパン(@soten_bluesky)／vprof.me/@/kawarabeecma
+フロントエンドが好きな普通の河童。バーチャル東京で働いています！／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママンパパン(@soten_bluesky)／https://vprof.me/@/kawarabeecma / https://heppokofrontend.dev
 ```
 
 ## 場所
