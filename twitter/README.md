@@ -9,8 +9,8 @@
 ## 自己紹介
 
 ```
-Web制作系駆け出しVTuber！
-フロントエンドが好きな普通の河童。バーチャル東京で働いています！／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママンパパン(@hiroyasushiocha)／vprof.me/@/kawarabeecma / heppokofrontend.dev
+Web制作系駆け出しVTuber！フロントエンドが好きな普通の河童。
+バーチャル東京で働いています！／#ケイロミ共和国／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママン野郎パパン @hiroyasushiocha／vprof.me/@/kawarabeecma／heppokofrontend.dev
 ```
 
 ## 場所
