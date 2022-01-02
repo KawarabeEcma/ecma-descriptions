@@ -12,6 +12,11 @@ ___dummy___
 
 --------------------------------------------------------------------------------
 
+I can read English comments a little.
+Please read rules of my stream ✔
+
+--------------------------------------------------------------------------------
+
 人間の姿にがんばって化けている働く河童。
 ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
 
@@ -42,7 +47,7 @@ https://twitter.com/KawarabeEcma
 Thanks for joining my stream!
 I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
-1. Do not fight.
+1. Do not fight. Don’t be a jerk.
 2. Avoid sensitive words and themes.
 3. Do not talk about other liver (streamer) who are not on topic of this stream.
 
@@ -104,4 +109,3 @@ https://www.sozai-library.com/
 https://f-stock.net/
 魔王魂
 https://maou.audio/
-```
