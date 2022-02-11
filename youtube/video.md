@@ -64,16 +64,30 @@ http://www.kurage-kosho.info/
 https://pocket-se.info/
 効果音ラボ
 https://soundeffect-lab.info/
-写真AC
-https://www.photo-ac.com/
 イラストAC
 https://www.illust-ac.com/
+写真AC
+https://www.photo-ac.com/
 素材Library.com
 https://www.sozai-library.com/
 動画素材サイト「えふすと f-stock」
 https://f-stock.net/
 魔王魂
 https://maou.audio/
+誰も知らないBGM 
+https://sabakan1127.wixsite.com/home
+ムビデコ - 無料素材動画サイト
+https://mubideco.com
+CANVAS｜pixivFANBOX
+https://can-vas.fanbox.cc/
+masa YASU - YouTube
+https://www.youtube.com/channel/UCshyfa1nXpann3zKC4hYPaw
+ひで - BOOTH
+https://hidechan.booth.pm/
+Vtuber向け配信商品｜PinkRose - BOOTH
+https://pink-rose.booth.pm/
+rairai-product - BOOTH
+https://rairai-product.booth.pm/
 ```
 
 ## ひとくちなれっじ
