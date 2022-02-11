@@ -6,9 +6,14 @@
 
 
 ```
-↓↓↓概要欄をご一読ください↓↓↓  #かわらいぶ #タグ1 #タグ2
+【JP/EN】↓↓↓概要欄をご一読ください↓↓↓   #かわらいぶ #タグ1 #タグ2
 
 ___dummy___
+
+--------------------------------------------------------------------------------
+
+I can read English comments a little.
+Please read rules of my stream ✔
 
 --------------------------------------------------------------------------------
 
@@ -42,7 +47,7 @@ https://twitter.com/KawarabeEcma
 Thanks for joining my stream!
 I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
-1. Do not fight.
+1. Do not fight. Don’t be a jerk.
 2. Avoid sensitive words and themes.
 3. Do not talk about other liver (streamer) who are not on topic of this stream.
 

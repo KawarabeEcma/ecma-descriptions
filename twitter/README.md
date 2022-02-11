@@ -9,13 +9,13 @@
 ## 自己紹介
 
 ```
-Web制作系駆け出しVTuber！
-フロントエンドが好きな普通の河童。バーチャル東京で働いています！／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／☀️セルフママンパパン(@soten_bluesky)／vprof.me/@/kawarabeecma / heppokofrontend.dev
+Web制作系駆け出しVTuber！もの作りが好きな普通の河童。
+いろんなツールを作ります！／#ケイロミ共和国／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／🍣🍵セルフママン野郎パパン @hiroyasushiocha／potofu.me/kawarabeecma／heppokofrontend.dev
 ```
 
 ## 場所
 
->　かわらべ えくま と読みます。
+>　かわらべ えくま（Kawarabe Ecma） と読みます。
 
 ## ウェブサイト
 
