@@ -2,7 +2,8 @@
 
 `___dummy___`は必要に応じて個別のメッセージを記述します。
 
-使用素材については、都度確認すること。
+使用素材については、都度確認すること。  
+マイクラについては「I can read English comments a little.」の後に鯖メンバーを追記すること。
 
 
 ```
@@ -30,11 +31,12 @@ https://twitter.com/KawarabeEcma
 配信タグ「 #かわらいぶ 」でツイートしてね！
 
 🥒 お約束
-1. 質問はタイミングを選ばずお気軽に！（答えられる限り答えたい！）
-2. 他の人と喧嘩しない！
-3. 触れづらいテーマには触れない
+1. コメントはタイミングを選ばずお気軽に！
+2. ケイロミの人の名前は自由に出してね
+3. ギクシャクしないでね
+4. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
 
-🥒 お願い
+🥒 技術的な内容にかかわる発言についての免責事項
 性質上、配信の中で出てくる情報の正確性は保障できません。。。
 配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
 正誤についてはお手数ですがご自身の目でも確かめてみてください🙇‍♂️
@@ -47,9 +49,10 @@ https://twitter.com/KawarabeEcma
 Thanks for joining my stream!
 I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
-1. Do not fight. Don’t be a jerk.
-2. Avoid sensitive words and themes.
-3. Do not talk about other liver (streamer) who are not on topic of this stream.
+1. you are free to send me a chat (in Japanese or English only)
+2. please refrain from referring to VTuber(streamer) outside the Keilomi republic.
+3. Don’t be a jerk.
+4. I will not mention subjects that I am not comfortable with or do not want to touch.  Sorry 🙇
 
 🥒 Please note
 Due to the nature of live stream, I cannot guarantee the accuracy of the knowledge provided in my stream...
@@ -123,4 +126,3 @@ Vtuber向け配信商品｜PinkRose - BOOTH
 https://pink-rose.booth.pm/
 rairai-product - BOOTH
 https://rairai-product.booth.pm/
-```
