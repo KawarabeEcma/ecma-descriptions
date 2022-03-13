@@ -10,7 +10,7 @@
 
 ```
 Web制作系駆け出しVTuber！もの作りが好きな普通の河童。
-いろんなツールを作ります！／#ケイロミ共和国／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／🍣🍵セルフママン野郎パパン @hiroyasushiocha／potofu.me/kawarabeecma／heppokofrontend.dev
+いろんなツールを作ります！／#ケイロミ共和国／▶️#かわらいぶ／⚙️#へっぽこフロントエンド道／🍣🍵セルフ野郎ママンパパン @hiroyasushiocha／potofu.me/kawarabeecma／heppokofrontend.dev
 ```
 
 ## 場所
