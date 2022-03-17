@@ -126,4 +126,6 @@ Vtuber向け配信商品｜PinkRose - BOOTH
 https://pink-rose.booth.pm/
 rairai-product - BOOTH
 https://rairai-product.booth.pm/
+トーマス大森音楽工房
+https://www.youtube.com/c/freemusicthomasoomori
 ```
