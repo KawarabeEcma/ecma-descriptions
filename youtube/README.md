@@ -7,13 +7,14 @@
 ### JP
 
 ```
+
 人間の姿にがんばって化けている働く河童。
 ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
 
 --------------------------------------------------------------------------------
 
 河童エクマ（Kawarabe Ecma）です🥒
-いっしょに楽しくWeb制作しましょ〜！
+Web制作とお絵描きが好きな河童です。なかよくしてね！
 
 🥒 Twitter
 https://twitter.com/KawarabeEcma
@@ -28,7 +29,7 @@ https://marshmallow-qa.com/KawarabeEcma
 切り抜き：#ひとくちきゅーり
 その他：#へっぽこフロントエンド道
 
-🥒 お願い
+🥒 技術的な内容にかかわる発言についての免責事項
 性質上、配信の中で出てくる情報の正確性は保障できません。。。
 配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
 正誤についてはお手数ですがご自身の目でも確かめてみてください🙇‍♂️
@@ -51,12 +52,12 @@ By chance, He helps a human with his work, then becomes a front-end web develope
 ---------------------------
 
 Hi! This is Kawarabe Ecma🥒.
-Let's have fun a web development together!
+I am a kappa who likes web development and drawing. Please get along with me!
 
 🥒 what is kappa?
 It's a famous "Yokai" in Japan.
 
-🥒 Twittre
+🥒 Twitter
 https://twitter.com/KawarabeEcma
 
 🥒 Q&A Form (Marshmallow)
@@ -65,17 +66,9 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 Tags
 Stream：#かわらいぶ
 Fan art：#河童絵巻
-Fan name: はすのこ（hasunoko）
-Clip：#ひとくちきゅーり
+Fan name (tentative): はすのこ
+Clip：#おつまみきゅーり
 Other：#へっぽこフロントエンド道
-
-🥒 Please note
-Due to the nature of live stream, I cannot guarantee the accuracy of the knowledge provided in my stream...
-While we strive to make the content of my videos and streaming as accurate as possible.
-However, maybe the information is wrong or outdated.
-Please check for accuracy on your own.🙇‍♂️
-
-If you find any wrong, please let me know in the comments or chat!
 
 ---------------------------
 
