@@ -128,4 +128,6 @@ rairai-product - BOOTH
 https://rairai-product.booth.pm/
 トーマス大森音楽工房
 https://www.youtube.com/c/freemusicthomasoomori
+フリーフォントケンサク
+https://cute-freefont.flop.jp/
 ```
