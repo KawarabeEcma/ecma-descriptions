@@ -24,3 +24,14 @@ ___dummy___
 🚀 ___tool_name___
 https://www.npmjs.com/package/@heppokofrontend/html-code-block-element
 ```
+
+```
+✍記事を投稿しました！ 
+
+／
+　___dummy____
+＼
+
+___article_title___ on #Qiita #へっぽこフロントエンド道
+https://qiita.com/heppokofrontend/items/XXXXXXXXXXX
+```
