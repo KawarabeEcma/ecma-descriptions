@@ -36,6 +36,11 @@ https://twitter.com/KawarabeEcma
 3. ギクシャクしないでね
 4. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
 
+🥒 Bot対策
+チャットをチャンネル登録者限定にしています。
+低速モード10秒に設定しています。
+ご理解の程よろしくお願いします…🙈
+
 🥒 技術的な内容にかかわる発言についての免責事項
 性質上、配信の中で出てくる情報の正確性は保障できません。。。
 配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
@@ -53,6 +58,11 @@ I'll even read your English comments! In order to improve my delivery, please re
 2. please refrain from referring to VTuber(streamer) outside the Keiromi republic.
 3. Don’t be a jerk.
 4. I will not mention subjects that I am not comfortable with or do not want to touch.  Sorry 🙇
+
+🥒 Bot Countermeasures
+My chat is setted to channel subscribers only.
+And low speed mode to 10 seconds.
+Thank you for your understanding... 🙈
 
 🥒 Please note
 Due to the nature of live stream, I cannot guarantee the accuracy of the knowledge provided in my stream...
