@@ -94,7 +94,7 @@ https://www.youtube.com/c/freemusicthomasoomori
 https://cute-freefont.flop.jp/
 ```
 
-## ひとくちなれっじ
+## おつまみなれっじ
 
 ```
 ___dummy___
