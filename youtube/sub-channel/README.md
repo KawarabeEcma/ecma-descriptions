@@ -14,7 +14,7 @@ Clips of Ecma Ch. (Ecma Kawarabe)
 Ecma Ch. 河童エクマ🥒
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 
---------------------------------------------------------------------------------
+-----------------------------------------------------------
 
 誤字脱字を見つけたら…
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
@@ -29,7 +29,7 @@ Clips channel of Virtual Front-end Web Developer Ecma Kawarabe.
 Ecma Ch. 河童エクマ🥒
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 
---------------------------------------------------------------------------------
+-----------------------------------------------------------
 
 If you find a typo...
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
