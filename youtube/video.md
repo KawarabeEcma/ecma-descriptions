@@ -6,7 +6,6 @@
 
 ## 基本
 
-
 ```
 ___dummy___
 
@@ -74,8 +73,8 @@ https://www.sozai-library.com/
 https://f-stock.net/
 魔王魂
 https://maou.audio/
-誰も知らないBGM 
-https://sabakan1127.wixsite.com/home
+誰も知らないBGM
+https://www.bgm-sabakan.net/
 ムビデコ - 無料素材動画サイト
 https://mubideco.com
 CANVAS｜pixivFANBOX
@@ -171,8 +170,8 @@ https://www.sozai-library.com/
 https://f-stock.net/
 魔王魂
 https://maou.audio/
-誰も知らないBGM 
-https://sabakan1127.wixsite.com/home
+誰も知らないBGM
+https://www.bgm-sabakan.net/
 ムビデコ - 無料素材動画サイト
 https://mubideco.com
 CANVAS｜pixivFANBOX
@@ -273,8 +272,8 @@ https://www.sozai-library.com/
 https://f-stock.net/
 魔王魂
 https://maou.audio/
-誰も知らないBGM 
-https://sabakan1127.wixsite.com/home
+誰も知らないBGM
+https://www.bgm-sabakan.net/
 ムビデコ - 無料素材動画サイト
 https://mubideco.com
 CANVAS｜pixivFANBOX

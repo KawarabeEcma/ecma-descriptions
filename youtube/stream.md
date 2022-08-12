@@ -5,7 +5,6 @@
 使用素材については、都度確認すること。  
 マイクラについては「I can read English comments a little.」の後に鯖メンバーを追記すること。
 
-
 ```
 English will follows.
 【お願い】↓↓↓概要欄をご一読ください↓↓↓   #かわらいぶ #タグ1 #タグ2
@@ -123,8 +122,8 @@ https://www.sozai-library.com/
 https://f-stock.net/
 魔王魂
 https://maou.audio/
-誰も知らないBGM 
-https://sabakan1127.wixsite.com/home
+誰も知らないBGM
+https://www.bgm-sabakan.net/
 ムビデコ - 無料素材動画サイト
 https://mubideco.com
 CANVAS｜pixivFANBOX
