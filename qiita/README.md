@@ -6,15 +6,15 @@
 
 ## 名前
 
-> 河童エクマ
+> 河童エクマ🥒
 
 ## サイト/ブログ
 
->　https://github.com/heppokofrontend
+>　hhttps://github.com/heppokofrontend/LICENSE
 
 ## 自己紹介
 
 ```
-バーチャル東京で働いているへっぽこフロントエンドエンジニアです。
+かわらべ えくまと申します。バーチャル東京で働いているへっぽこフロントエンドエンジニアです。
 TypeScriptとかWebアクセシビリティに興味があります。
 ```

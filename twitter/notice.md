@@ -5,8 +5,10 @@
 ```
 🌟配信予告🌟
 
-mm月dd日（土）🕘21:00〜 JST
-mm月dd日（土）🕙22:00〜 JST
+mm月dd日（土）🕗20:15〜 JST
+mm月dd日（土）🕘21:15〜 JST
+mm月dd日（土）🕙22:15〜 JST
+mm月dd日（日）🕑14:15〜 JST
 
 ___dummy___
 
