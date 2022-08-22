@@ -9,12 +9,12 @@ Clips of Ecma Ch. (Ecma Kawarabe)
 ### JP
 
 ```
-バーチャルフロントエンドWebデベロッパー 河童エクマの切り抜きチャンネルです。
+バーチャルフロントエンドWebデベロッパー 河童エクマの技術者向けチャンネルです。
 
 Ecma Ch. 河童エクマ🥒
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 
------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 誤字脱字を見つけたら…
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
@@ -24,12 +24,12 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
 
 
 ```
-Clips channel of Virtual Front-end Web Developer Ecma Kawarabe.
+The channel of Virtual Front-end Web Developer Ecma Kawarabe for web developers.
 
 Ecma Ch. 河童エクマ🥒
 https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
 
------------------------------------------------------------
+--------------------------------------------------------------------------------
 
 If you find a typo...
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube/sub-channel
