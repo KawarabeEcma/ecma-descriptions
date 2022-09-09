@@ -48,6 +48,9 @@ https://twitter.com/KawarabeEcma
 
 もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
 
+🥒 二次創作ガイドライン
+https://github.com/KawarabeEcma/ecma-guidlines
+
 -----------------------------------------------------------
 
 🥒 Rules
@@ -72,6 +75,9 @@ Please check for accuracy on your own.🙇‍♂️
 
 If you find any wrong, please let me know in the comments or chat!
 
+🥒 Derivative Works Guidelines
+https://github.com/KawarabeEcma/ecma-guidlines
+
 -----------------------------------------------------------
 
 🥒 ハッシュタグ
@@ -90,56 +96,18 @@ https://store.line.me/stickershop/product/11740941/ja
 -----------------------------------------------------------
 
 🥒🥒お世話になっている素材屋さん
-リスト：https://github.com/KawarabeEcma/ecma-licenses
+リスト：https://github.com/KawarabeEcma/ecma-credits
 
 DOVE-SYNDROME
 https://dova-s.jp/
-ICOON MONO
-https://icooon-mono.com/
-OtoLogic
-https://otologic.jp/
-PIXTA
-https://pixta.jp/
-Twemoji
-https://twemoji.twitter.com/
-いらすとや
-https://www.irasutoya.com/
 エダマメ豆富
 https://www.youtube.com/c/edamametofu
-くらげ工匠
-http://www.kurage-kosho.info/
-ポケットサウンド
-https://pocket-se.info/
-効果音ラボ
-https://soundeffect-lab.info/
-イラストAC
-https://www.illust-ac.com/
-写真AC
-https://www.photo-ac.com/
-素材Library.com
-https://www.sozai-library.com/
-動画素材サイト「えふすと f-stock」
-https://f-stock.net/
-魔王魂
-https://maou.audio/
-誰も知らないBGM
-https://www.bgm-sabakan.net/
-ムビデコ - 無料素材動画サイト
-https://mubideco.com
-CANVAS｜pixivFANBOX
-https://can-vas.fanbox.cc/
-masa YASU - YouTube
-https://www.youtube.com/channel/UCshyfa1nXpann3zKC4hYPaw
-ひで - BOOTH
-https://hidechan.booth.pm/
-Vtuber向け配信商品｜PinkRose - BOOTH
-https://pink-rose.booth.pm/
-rairai-product - BOOTH
-https://rairai-product.booth.pm/
-トーマス大森音楽工房
-https://www.youtube.com/c/freemusicthomasoomori
-フリーフォントケンサク
-https://cute-freefont.flop.jp/
-On-Jin ～音人～
-https://on-jin.com/
+いらすとや
+https://www.irasutoya.com/
+うさねこメモリー
+https://usanekomemory.booth.pm/
+OtoLogic
+https://otologic.jp/
+ICOON MONO
+https://icooon-mono.com/
 ```
