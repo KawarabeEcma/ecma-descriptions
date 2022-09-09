@@ -36,6 +36,9 @@ https://marshmallow-qa.com/KawarabeEcma
 
 もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
 
+🥒 二次創作ガイドライン
+https://github.com/KawarabeEcma/ecma-guidlines
+
 -----------------------------------------------------------
 
 誤字脱字を見つけたら…
@@ -69,6 +72,9 @@ Fan art：#河童絵巻
 Fan name (tentative): はすのこ
 Clip：#おつまみきゅーり
 Other：#へっぽこフロントエンド道
+
+🥒 Derivative Works Guidelines
+https://github.com/KawarabeEcma/ecma-guidlines
 
 ---------------------------
 
