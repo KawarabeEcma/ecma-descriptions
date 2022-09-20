@@ -57,9 +57,9 @@ https://github.com/KawarabeEcma/ecma-guidlines
 Thanks for joining my stream!
 I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
-1. you are free to send me a chat (in Japanese or English only)
-2. please refrain from referring to VTuber(streamer) outside the Keiromi republic.
-3. Don’t be a jerk.
+1. You are free to send me a chat (Sorry, Japanese or English only)
+2. Please refrain from mentioning the names of VTuber(streamer) who are not on the Keiromi republic.
+3. Please don’t be a jerk.
 4. I will not mention subjects that I am not comfortable with or do not want to touch.  Sorry 🙇
 
 🥒 Bot Countermeasures
