@@ -62,7 +62,6 @@ I'll even read your English comments! In order to improve my delivery, please re
 3. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
 4. Don’t be a jerk.
 
-
 🥒 Bot Countermeasures
 My chat is setted to channel subscribers only.
 And low speed mode to 10 seconds.
