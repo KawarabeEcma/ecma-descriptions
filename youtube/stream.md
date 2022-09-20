@@ -32,8 +32,8 @@ https://twitter.com/KawarabeEcma
 
 🥒 お約束
 1. コメントはタイミングを選ばずお気軽に！
-2. ケイロミの人の名前は自由に出してね
-3. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
+2. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
+3. ケイロミの人の名前は自由に出してOK
 4. みんなにいじわるしないでね！
 
 🥒 Bot対策
@@ -58,8 +58,8 @@ Thanks for joining my stream!
 I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
 1. You are free to send me a chat (Sorry, Japanese or English only)
-2. Please refrain from mentioning the names of VTuber(streamer) who are not on the Keiromi republic.
-3. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
+2. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
+3. Please refrain from mentioning the names of VTuber(streamer) who are not on the Keiromi republic.
 4. Don’t be a jerk.
 
 🥒 Bot Countermeasures
