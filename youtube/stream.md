@@ -75,7 +75,7 @@ Please check for accuracy on your own.🙇‍♂️
 
 If you find any wrong, please let me know in the comments or chat!
 
-🥒 Derivative Works Guidelines
+🥒 Guidelines for Secondary Creation (fan fiction)
 https://github.com/KawarabeEcma/ecma-guidlines
 
 -----------------------------------------------------------
