@@ -49,7 +49,7 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 
 
 ```
-A working kappa who struggle to disguise himself as a human.
+I'm a kappa working as a developer struggling to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
 ---------------------------
