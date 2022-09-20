@@ -59,7 +59,7 @@ I'll even read your English comments! In order to improve my delivery, please re
 
 1. You are free to send me a chat (Sorry, Japanese or English only)
 2. Please refrain from mentioning the names of VTuber(streamer) who are not on the Keiromi republic.
-3. I will not mention subjects that sensitive topic or do not want to talk about. Sorry🙇
+3. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
 4. Don’t be a jerk.
 
 
