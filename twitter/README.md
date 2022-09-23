@@ -19,4 +19,4 @@ Web制作系駆け出しVTuber！もの作りが好きな普通の河童。
 
 ## ウェブサイト
 
-> https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q
+> https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1
