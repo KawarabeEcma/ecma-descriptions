@@ -38,7 +38,6 @@ https://twitter.com/KawarabeEcma
 
 🥒 Bot対策
 チャットをチャンネル登録者限定にしています。
-低速モード5秒に設定しています。
 ご理解の程よろしくお願いします…🙈
 
 🥒 技術的な内容にかかわる発言についての免責事項
@@ -64,7 +63,6 @@ I'll even read your English comments! In order to improve my delivery, please re
 
 🥒 Bot Countermeasures
 My chat is setted to channel subscribers only.
-And low speed mode to 5 seconds.
 Thank you for your understanding... 🙈
 
 🥒 Please note
