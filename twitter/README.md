@@ -9,8 +9,8 @@
 ## 自己紹介
 
 ```
-Web制作系駆け出しVTuber！もの作りが好きな普通の河童。
-ツールを作ったり絵を描いたりします🥳／#ケイロミ共和国／▶#かわらいぶ／⚙#へっぽこフロントエンド道／🍣🍵セルフ野郎ママンパパン @hiroyasushiocha／potofu.me/kawarabeecma／heppokofrontend.dev
+＼だいたい週６配信 🥳／
+お絵描きしたりツールを作ったりする、ゲーム実況中心の駆け出しVTuber!!🥒Web制作/開発系河童です👨‍💻／#ケイロミ共和国／▶#かわらいぶ／⚙#へっぽこフロントエンド道／🍣🍵セルフ野郎ママンパパン @hiroyasushiocha／potofu.me/kawarabeecma
 ```
 
 ## 場所
