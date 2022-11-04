@@ -35,6 +35,8 @@ https://twitter.com/KawarabeEcma
 2. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
 3. ケイロミの人の名前は自由に出してOK
 4. みんなにいじわるしないでね！
+5. リクエストは大歓迎！だけど事前にスケジュールを確認してくれるとうれしいです😉
+→ https://twitter.com/KawarabeEcma （固定ツイート）
 
 🥒 Bot対策
 チャットをチャンネル登録者限定にしています。
@@ -60,6 +62,8 @@ I'll even read your English comments! In order to improve my delivery, please re
 2. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
 3. Please refrain from mentioning the names of VTuber(streamer) who are not on the Keiromi republic.
 4. Don’t be a jerk.
+5. I welcome requests for delivery themes! But it would be great if you could check my schedule via my fixed tweets on Twitter before sending your request 😉.
+→ https://twitter.com/KawarabeEcma 
 
 🥒 Bot Countermeasures
 My chat is setted to channel subscribers only.
