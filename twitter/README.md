@@ -19,4 +19,4 @@
 
 ## ウェブサイト
 
-> https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1
+> https://www.youtube.com/@kawarabeecma?sub_confirmation=1
