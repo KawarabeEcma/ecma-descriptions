@@ -9,8 +9,8 @@
 ## 自己紹介
 
 ```
-＼だいたい週６配信 🥳／
-お絵描きしたりツールを作ったりする、ゲーム実況中心の駆け出しVTuber!!🥒Web制作/開発系河童です👨‍💻／参加型配信が好き／▶#かわらいぶ／⚙#へっぽこフロントエンド道／🍣🍵セルフ野郎ママンパパン @hiroyasushiocha／potofu.me/kawarabeecma
+河童のVTuber🥒お絵描きしたりゲーム実況したり🥒火曜日は定休日💤／セルフ野郎ママンパパン：🍣🍵 
+@hiroyasushiocha ／【タグ】#かわらいぶ、#河童絵巻 http://potofu.me/kawarabeecma
 ```
 
 ## 場所
