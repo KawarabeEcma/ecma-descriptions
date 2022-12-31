@@ -9,8 +9,7 @@
 ## 自己紹介
 
 ```
-河童のVTuber🥒お絵描きしたりゲーム実況したり🥒火曜日は定休日💤／セルフ野郎ママンパパン：🍣🍵 
-@hiroyasushiocha ／【タグ】#かわらいぶ、#河童絵巻 http://potofu.me/kawarabeecma
+河童のVTuber🥒お絵描きしたりゲーム実況したり🥒火曜日は定休日💤／セルフ野郎ママンパパン：🍣🍵 @hiroyasushiocha ／【タグ】#かわらいぶ、#河童絵巻 http://potofu.me/kawarabeecma
 ```
 
 ## 場所
