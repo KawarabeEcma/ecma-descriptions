@@ -1,113 +1,98 @@
 # 配信概要テンプレート
 
-`___dummy___`は必要に応じて個別のメッセージを記述します。
-
-使用素材については、都度確認すること。  
-マイクラについては「I can read English comments a little.」の後に鯖メンバーを追記すること。
+`___dummy___`は必要に応じて個別のメッセージを記述します。  
+使用素材については、都度確認すること。
 
 ```
-English will follows.
-【お願い】↓↓↓概要欄をご一読ください↓↓↓ #かわらいぶ #個人勢VTuber #タグ
+【概要欄を読んでね！】 English will follows.
 
 ___dummy___
 
------------------------------------------------------------
-
-I can read English comments a little.
-Please read rules of my stream ✔
-
------------------------------------------------------------
-
-人間の姿にがんばって化けている働く河童。
-ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
-
------------------------------------------------------------
-
-🥒 河童エクマのチャンネル登録おねがいします！
-https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q?sub_confirmation=1
+/* ----------------------------------------------- */
 
 🥒 Twitter
+配信の感想などは「 #かわらいぶ 」でツイートしてね！
 https://twitter.com/KawarabeEcma
-配信タグ「 #かわらいぶ 」でツイートしてね！
 
-🥒 お約束
+🥒 LINEスタンプ/LINE Stickers
+https://store.line.me/stickershop/author/41975/ja
+
+🥒 二次創作ガイドライン/Guidelines for fan fiction
+https://github.com/KawarabeEcma/ecma-guidlines
+
+/* ----------------------------------------------- */
+
+🥒 スケジュール/SCHEDULE 🥒
+
+水曜日～水曜日まででスケジュールを立てています！
+Twitterの固定ツイートか、YouTubeコミュニティで確認してね！
+https://twitter.com/KawarabeEcma
+
+Please check our fixed tweets on Twitter!
+
+/* ----------------------------------------------- */
+
+🥒 リクエストについて/REQUEST 🥒
+
+リクエストは大歓迎！
+事前にスケジュールを確認してから、マシュマロで送ってくれるとうれしいです😉
+→ https://marshmallow-qa.com/kawarabeecma
+
+I welcome requests for stream themes!
+But I appericiate it if you check my schedule via my Twitter before sending your request 😉.
+
+/* ----------------------------------------------- */
+
+🥒 河童と5つのお約束 🥒
+
+たのしい空気づくりをいつもありがとう！
+初見さんも含めて、みんなが楽しめるように次のことを約束してね🎀
+
 1. コメントはタイミングを選ばずお気軽に！
-2. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
-3. みんなにいじわるしないでね！
-4. リクエストは大歓迎！だけど事前にスケジュールを確認してくれるとうれしいです😉
-→ https://twitter.com/KawarabeEcma （固定ツイート）
+　（ただし、配信が始まるまでは「待機🥒」みたいな風にコメントしてね🙆‍♂️）
+2. 配信と関係ないの内容のコメントはなるべく避けよう🙈
+　（リスナーさん同士でお話したいときはフリーチャット枠をご利用ください🌟）
+3. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
+　（荒らしやスパムは無視・通報して自分を守ろう🛡）
+4. 他の配信者さんのところで、話題に上がってない時に河童の名前は出さないでね🙏
+　（「河童から来ました」「エクマくんが○○してるよ」はNG)
+5. みんななかよく！いじわるしないでね！
 
-🥒 Bot対策
-チャットをチャンネル登録者限定にしています。
-ご理解の程よろしくお願いします…🙈
+/* ----------------------------------------------- */
 
-🥒 技術的な内容にかかわる発言についての免責事項
-性質上、配信の中で出てくる情報の正確性は保障できません。。。
-配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
-正誤についてはお手数ですがご自身の目でも確かめてみてください🙇‍♂️
-
-もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
-
-🥒 二次創作ガイドライン
-https://github.com/KawarabeEcma/ecma-guidlines
-
------------------------------------------------------------
-
-🥒 Rules
 Thanks for joining my stream!
-I'll even read your English comments! In order to improve my delivery, please read the following rules:
 
-1. You are free to send me a chat (Sorry, Japanese or English only)
-2. I will not mention subjects that sensitive topic or I do not want to talk about. Sorry🙇
-3. Don’t be a jerk.
-4. I welcome requests for delivery themes! But it would be great if you could check my schedule via my fixed tweets on Twitter before sending your request 😉.
-→ https://twitter.com/KawarabeEcma
+I can read even simple English comments!
+Feel free to comment! If it is difficult, I will use translation!!
 
-🥒 Bot Countermeasures
-My chat is setted to channel subscribers only.
-Thank you for your understanding... 🙈
+Please read rules of my stream ✔
 
-🥒 Please note
-Due to the nature of live stream, I cannot guarantee the accuracy of the knowledge provided in my stream...
-While we strive to make the content of my videos and streaming as accurate as possible.
-However, maybe the information is wrong or outdated.
-Please check for accuracy on your own.🙇‍♂️
+🥒 Rules 🥒
 
-If you find any wrong, please let me know in the comments or chat!
+In order to enjoy my stream, please read the following promises to me:
 
-🥒 Guidelines for Secondary Creation (fan fiction)
-https://github.com/KawarabeEcma/ecma-guidlines
+1. Feel free to comment at any time!
+　(But please comment like "待機🥒", "waitting", "Hi" or "uwu" until this stream starts🙆‍♂️.)
+2. Try to avoid comments that are unrelated with this stream🙈
+　(If you want to chat with other listeners, please use the free chat stream 🌟) 3.
+3. I will not touch subjects that sensitive topic or I do not want to talk about. Sorry🙇♂️
+　(Please ignore or report trolls and spam to protect yourself 🛡)
+4. Do not mention my name at other streamers places when it's not on topic 🙏.
+　(e.g. "I'm from Kappa" or "Ecma is doing ______")
+5. Everyone get along! Don't be jerk!
 
------------------------------------------------------------
+/* ----------------------------------------------- */
 
-🥒 ハッシュタグ
-生放送関連：#かわらいぶ
-イラスト：#河童絵巻
-ファンネーム：はすのこ
-切り抜き：#ひとくちきゅーり
-その他：#へっぽこフロントエンド道
-
-🥒LINEスタンプ
-かっぱのかぱ吉くん。
-https://store.line.me/stickershop/product/1086057/ja
-かっぱのかぱ吉くん2。
-https://store.line.me/stickershop/product/11740941/ja
-
------------------------------------------------------------
-
-🥒🥒お世話になっている素材屋さん
-リスト：https://github.com/KawarabeEcma/ecma-credits
+🥒 CREDITS/お借りいたしています 🥒
 
 DOVE-SYNDROME
 https://dova-s.jp/
-エダマメ豆富
-https://www.youtube.com/c/edamametofu
-いらすとや
-https://www.irasutoya.com/
-うさねこメモリー
-https://usanekomemory.booth.pm/
 OtoLogic
 https://otologic.jp/
+うさねこメモリー
+https://usanekomemory.booth.pm/
 ICOON MONO
 https://icooon-mono.com/
+
+See also: https://github.com/KawarabeEcma/ecma-credits
 ```
