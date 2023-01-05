@@ -2,7 +2,7 @@
 
 <https://www.youtube.com/channel/UCtayGWXp2NWel6CyfBcWw6Q/about>
 
-## チャンネル概要欄（〜1000文字）
+## チャンネル概要欄（〜1000 文字）
 
 ### JP
 
@@ -29,13 +29,6 @@ https://marshmallow-qa.com/KawarabeEcma
 切り抜き：#ひとくちきゅーり
 その他：#へっぽこフロントエンド道
 
-🥒 技術的な内容にかかわる発言についての免責事項
-性質上、配信の中で出てくる情報の正確性は保障できません。。。
-配信や動画内の情報は可能な限り正確なものにするよう努めていますが、情報が誤っていたり古くなっている場合があります。
-正誤についてはお手数ですがご自身の目でも確かめてみてください🙇‍♂️
-
-もし誤りを見つけていただいた際はコメントやチャットで教えてくれるとうれしいです！
-
 🥒 二次創作ガイドライン
 https://github.com/KawarabeEcma/ecma-guidlines
 
@@ -46,7 +39,6 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ```
 
 ### EN
-
 
 ```
 I'm a kappa working as a developer struggling to disguise himself as a human.
