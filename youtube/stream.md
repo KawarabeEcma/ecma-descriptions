@@ -83,7 +83,7 @@ In order to enjoy my stream, please read the following promises to me:
 
 /* ----------------------------------------------- */
 
-🥒 CREDITS/お借りいたしています 🥒
+🥒 CREDITS/お借りしています 🥒
 
 DOVE-SYNDROME
 https://dova-s.jp/
