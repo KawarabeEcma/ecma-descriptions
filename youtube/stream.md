@@ -5,6 +5,7 @@
 
 ```
 【概要欄を読んでね！】 English will follows.
+⚠😱  脅かし・流血表現などを含みます。
 
 ___dummy___
 
