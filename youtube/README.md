@@ -80,9 +80,9 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 
 > https://twitter.com/KawarabeEcma
 
-### GitHub
+### LINE STAMP
 
-> https://github.com/KawarabeEcma
+> https://store.line.me/stickershop/product/21752406/ja
 
 ### マシュマロ
 
@@ -95,3 +95,7 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ### VTuber ランキング
 
 > https://virtual-youtuber.userlocal.jp/user/A683BDB558EBB213_a1cc18
+
+### GitHub
+
+> https://github.com/KawarabeEcma
