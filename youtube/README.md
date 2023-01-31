@@ -80,6 +80,10 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 
 > https://twitter.com/KawarabeEcma
 
+### Twitch
+
+> https://www.twitch.tv/kawarabeecma
+
 ### LINE STAMP
 
 > https://store.line.me/stickershop/product/21752406/ja
@@ -87,6 +91,10 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ### マシュマロ
 
 > https://marshmallow-qa.com/kawarabeecma
+
+### potofu
+
+> https://potofu.me/kawarabeecma
 
 ### v-data
 
@@ -99,3 +107,11 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ### GitHub
 
 > https://github.com/KawarabeEcma
+
+### Qiita
+
+> https://qiita.com/heppokofrontend
+
+### heppokofrontend.dev
+
+> https://heppokofrontend.dev
