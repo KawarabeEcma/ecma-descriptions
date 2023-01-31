@@ -8,13 +8,18 @@
 
 ```
 
+こんエクマー！　河童のフロントエンドWebデベロッパーの　かわらべエクマ　と申します🥒✨
+プログラミングと　お絵かきが　好きです。
+
+河童の　チャンネルには　こどもから　大人まで　幅広い　はすのこたちが　遊びに　来てくれます！
+みんなが　楽しめる　ように　河童とも　なかよくしてね！
+
+/* ----------------------------------------------- */
+
 人間の姿にがんばって化けている働く河童。
 ひょんなことから人間の仕事を手伝うことになり、フロントエンドWeb開発者になった。
 
------------------------------------------------------------
-
-河童エクマ（Kawarabe Ecma）です🥒
-Web制作とお絵描きが好きな河童です。なかよくしてね！
+/* ----------------------------------------------- */
 
 🥒 Twitter
 https://twitter.com/KawarabeEcma
@@ -32,7 +37,7 @@ https://marshmallow-qa.com/KawarabeEcma
 🥒 二次創作ガイドライン
 https://github.com/KawarabeEcma/ecma-guidlines
 
------------------------------------------------------------
+/* ----------------------------------------------- */
 
 誤字脱字を見つけたら…
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
@@ -44,7 +49,7 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 I'm a kappa working as a developer struggling to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
----------------------------
+/* ----------------------------------------------- */
 
 Hi! This is Kawarabe Ecma🥒.
 I am a kappa who likes web development and drawing. Please get along with me!
@@ -68,7 +73,7 @@ Other：#へっぽこフロントエンド道
 🥒 Derivative Works Guidelines
 https://github.com/KawarabeEcma/ecma-guidlines
 
----------------------------
+/* ----------------------------------------------- */
 
 If you find a typo...
 https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
