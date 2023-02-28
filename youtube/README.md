@@ -7,6 +7,7 @@
 ### JP
 
 ```
+🥒 このチャンネルについて 🥒
 
 こんエクマー！　河童のフロントエンドWebデベロッパーの　かわらべエクマ　と申します🥒✨
 プログラミングと　お絵かきが　好きです。
@@ -47,6 +48,8 @@ https://github.com/KawarabeEcma/ecma-descriptions/tree/main/youtube
 ### EN
 
 ```
+🥒 About us 🥒
+
 I'm a kappa working as a developer struggling to disguise himself as a human.
 By chance, He helps a human with his work, then becomes a front-end web developer.
 
