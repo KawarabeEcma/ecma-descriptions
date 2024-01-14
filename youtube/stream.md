@@ -50,17 +50,13 @@ But I appericiate it if you check my schedule via my Twitter before sending your
 初見さんも含めて、みんなが楽しめるようにしていきたいね✨
 
 1. コメントはタイミングを選ばずお気軽に！
-　（ただし、配信が始まるまでは「待機🥒」みたいなコメントがうれしい🙆‍♂️）
-
+　（ただし、配信が始まるまでは「えくまち🥒」ってコメントするのがおすすめ🙆‍♂️）
 2. 配信に関係ない内容や、他の配信者さんの名前はなるべく避けよう🙈
 　（リスナーさん同士でお話したいときはフリーチャット枠が便利！🌟）
-
 3. 触れづらい・触れたくないテーマには触れないです。ごめんね🙇‍♂️
 　（荒らしやスパムは無視・通報して自分を守ろう🛡）
-
 4. 他の配信者さんのところで、話題に上がってない時に河童の名前は出さないでね🙏
 　（「河童から来ました」「エクマくんが○○してるよ」みたいなコメントで河童が嫌われてしまうかも…)
-
 5. みんななかよく！いじわるしないでね！
 
 /* ----------------------------------------------- */
@@ -77,7 +73,7 @@ Please read rules of my stream ✔
 In order to enjoy my stream, please read the following promises to me:
 
 1. Feel free to comment at any time!
-　(But please comment like "待機🥒", "waitting", "Hi" or "uwu" until this stream starts🙆‍♂️.)
+　(But please comment like "待機🥒", "えくまち🥒", "waitting", "Hi" or "uwu" until this stream starts🙆‍♂️.)
 2. Try to avoid comments that are unrelated with this stream🙈
 　(If you want to chat with other listeners, please use the free chat stream 🌟) 3.
 3. I will not touch subjects that sensitive topic or I do not want to talk about. Sorry🙇♂️
@@ -92,12 +88,4 @@ In order to enjoy my stream, please read the following promises to me:
 
 DOVE-SYNDROME
 https://dova-s.jp/
-OtoLogic
-https://otologic.jp/
-うさねこメモリー
-https://usanekomemory.booth.pm/
-ICOON MONO
-https://icooon-mono.com/
-
-See also: https://github.com/KawarabeEcma/ecma-credits
 ```
